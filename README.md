@@ -11,12 +11,10 @@
 
 ### 🚀 Install & Setup:
 
-```bash
 npm install -D @playwright/test typescript ts-node
 npx playwright install
 
 ## 2. Running Tests Locally
-
 ### Run UI and API Tests:
 
 -npm run test
